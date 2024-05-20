@@ -1,38 +1,38 @@
 [
     {
         "name": "Fat Walid",
-        "image": "./public/images/img1.jpg"
+        "image": "./public/Images/img1.jpg"
     },
     {
         "name": "Sleep Walid",
-        "image": "./public/images/img2.jpg"
+        "image": "./public/Images/img2.jpg"
     },
     {
         "name": "Bald Duo",
-        "image": "./public/images/img3.jpg"
+        "image": "./public/Images/img3.jpg"
     },
     {
         "name": "Pitbull",
-        "image": "./public/images/img4.jpg"
+        "image": "./public/Images/img4.jpg"
     },
     {
         "name": "Cooked Anwar",
-        "image": "./public/images/img5.jpg"
+        "image": "./public/Images/img5.jpg"
     },
     {
         "name": "Big Ahh Forehead",
-        "image": "./public/images/img6.png"
+        "image": "./public/Images/img6.png"
     },
     {
         "name": "Chopped Ahh",
-        "image": "./public/images/img7.png"
+        "image": "./public/Images/img7.png"
     },
     {
         "name": "Zesty Ahh",
-        "image": "./public/images/img8.png"
+        "image": "./public/Images/img8.png"
     },
     {
         "name": "Blud is not him",
-        "image": "./public/images/img9.jpg"
+        "image": "./public/Images/img9.jpg"
     }
 ]
