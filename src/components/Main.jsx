@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Card from './Card';
 import '../styles/Main.css'
 
+
 function Main(props) {
   const [data, setData] = useState(null);
   const [checked, setChecked] = useState([])
